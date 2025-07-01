@@ -1,6 +1,6 @@
 // 10. Combine string + int in one output
 
-string name = "Julio";
-int age = 20;
+int num = 0b1;
+string pangalan = "Onic PH Kelra";
 
-Console.WriteLine("My name is " + name + " and I am " + age + " years old.");
+Console.WriteLine("My idol is " + pangalan + " and she is my number " + num + ".");
